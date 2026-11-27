@@ -4,7 +4,7 @@
 
 Vytvoř Python skript, který:
 
-1. Zavolá LLM API.
+1. Zavolá LLM API od Open AI. model="gpt-4o"
 2. Použije nástroj, například výpočetní funkci.
 3. Vrátí výsledek nástroje zpět LLM a získá jeho odpověď.
 
